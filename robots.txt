@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jamalmorei043-hue.github.io/bin-marai-blocks/sitemap.xml
